@@ -1,4 +1,4 @@
-from tobrot.sample_config import Config
+from tobrot.kaj_config import Config
 
 class Config(Config):
   TG_BOT_TOKEN = "1302270529:AAFt0TLSof51vhGODA21i9NqKSjk7PWT2D8"
